@@ -1,4 +1,6 @@
 - [关于](README.md)
 - [部署](deploy.md)
 - [第一章](book/one.md)
--- [第一章](book/one.md)
+	- [one](book/one/one.md)
+	- [two](book/one/two.md)
+		- [three](book/one/three.md)
